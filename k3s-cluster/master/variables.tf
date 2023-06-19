@@ -26,5 +26,5 @@ variable "security_group" {
 variable "path" {
   description = "Path to the Private Key"
   type        = string
-  default     = "C:/Users/Kanhu/Desktop/Guddi/key/master1.pem"
+  default     = ""
 }
